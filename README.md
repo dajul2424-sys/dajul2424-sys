@@ -1,221 +1,172 @@
-![](https://komarev.com/ghpvc/?username=alamin-babu&style=flat&color=blue)
-
-<h1 align="center">Hola, Mi nombre es David <img src=
-"https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<div align="center" style="border: px solid #000000;>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Computer+Science+Student;Android+Developer;Compititive+Programmer;ML+Enthusiast;Web+Designer;web+developer;Growing+Ethical+Hacker)](https://git.io/typing-svg)
-</div>
-<p align="center" >
- <img  height="280rem" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
- </p>
-
-## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
-Soy Técnico en Programación de Software con conocimientos en desarrollo web utilizando HTML, CSS, JavaScript, PHP y React. Tengo experiencia en manejo de bases de datos MySQL con MySQL Workbench, consumo de APIs y conocimientos en Programación Orientada a Objetos con Java. Además, cuento con certificación en Python y me enfoco en el aprendizaje continuo y el desarrollo de soluciones tecnológicas eficientes. 💻
-
-<br>
-
-  
-
-
--  🔭 Aprendizaje rápido de nuevas tecnologías.
-
-- 👯 Pensamiento lógico y analítico para la resolución de problemas.
-
-- 🌱 Actualmente Estudiando Analisis Y Desarrollo De Sofware
-
-<br>
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
-
- 
- 
-<br>
-
-<p align="center"><!-----Social Accounts------>
+<!-- ============================== -->
+<!--     DAVID QUINTERO README      -->
+<!-- ============================== -->
 
 <p align="center">
- <a href="https://www.linkedin.com/in/david-julian-choconta-quintero-a9682b3b1/">
- 
- <img border="0" alt="Hrugved's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
- </a>
-
- <a href="https://www.instagram.com/">
- <img border="0" alt="Hrugved's IG" src="https://www.instagram.com/david_c.q_24?igsh=dG94bXdiMmZydzNu&utm_source=qr"/>
- </a>
-
- <a href="https://discord.com/invite/5RmW6dZKpe6">
- <img border="0" alt="HrugVed (He/Him)#8131" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/>
- </a>
- <a href="Dajul2424@gmail.com">
- <img border="0" alt="Hrugved's Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
- </a>
+  <img src="https://komarev.com/ghpvc/?username=DavidCQ24&label=Visitas%20al%20Perfil&color=0e75b6&style=flat" />
 </p>
 
-<br>
+<h1 align="center">
+Hola 👋 Soy David Choconta
+</h1>
 
+<h3 align="center">
+💻 Desarrollador Full Stack | React | Node.js | Java | MySQL | XAMPP
+</h3>
 
-
-
-<br>
-
-
-## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-
-### 📋 Programming languages
-
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C-%232370ED.svg?logo=c&logoColor=white">
-  </a> 
-
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">
-  </a> 
-
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white">
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black">
-  </a>
-
-  <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-
-  <a href="https://www.php.net/" target="_blank">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white">
-  </a>
-
- 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Desarrollador+Full+Stack;Desarrollador+React;Desarrollador+Node.js;Programador+Java;Desarrollador+Bases+de+Datos+MySQL;Siempre+Aprendiendo+Nuevas+Tecnolog%C3%ADas+🚀"/>
 </p>
 
-
-
-
-### 📋 Frontend Development
-
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>   
-  
- 
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white"/>
-  </a>
-  
+<p align="center">
+<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="500">
 </p>
 
+---
 
+# 👨‍💻 Sobre Mí
 
+Soy **David Quintero**, desarrollador **Full Stack** de Colombia 🇨🇴.
 
-### ☁️ Cloud
+Actualmente soy aprendiz de la tecnología en **Análisis y Desarrollo de Software (ADSO) en el SENA**. Me apasiona estructurar la lógica del backend, diseñar bases de datos relacionales eficientes y conectarlas con interfaces frontend interactivas y dinámicas. 
 
-  
- <a href="https://cloud.google.com/" target="_blank"> 
-    <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white"/>
-  </a>
-  
+Tengo experiencia configurando entornos locales de desarrollo, gestionando servidores de bases de datos y desplegando servicios para aplicaciones web robustas.
+
+### 🚀 Actualmente trabajo con
+
+- ⚛️ React
+- 🟢 Node.js (Express.js)
+- 🗄️ MySQL & XAMPP
+- ☕ Java
+- 🐘 PHP
+- 🔐 Autenticación JWT
+- 🔄 Arquitectura de APIs REST
+- 💾 Git & GitHub
+
+---
+
+# 🚀 Tecnologías
+
+## Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,vite"/>
 </p>
 
+---
 
-
-
-    
-
-
-
-### ♾️ DevOps
-
-
- <a href="https://github.com/" target="_blank"> 
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
-  </a>
+## Backend y Servidores
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,java"/>
 </p>
 
+---
 
-
-
-### 💾 Databases
-
-<p align="left"> 
-
-  <a href="https://www.mysql.com/" target="_blank"> 
-   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white">
-  </a>   
-   <a href="https://www.mongodb.com/" target="_blank"> 
-   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
-  </a>  
-  
- 
-  
+## Base de Datos y Entornos Locales
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" height="40" />
 </p>
 
+---
 
-
-
-
-
-
-
-### 🎛️ Operating Systems
-
-<p align="left"> 
-  
- 
-  
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
-  </a>
-
-
-
- <a href="https://www.microsoft.com/en-us/windows/" target="_blank"> 
-    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"/>
-  </a>
+## Herramientas
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm"/>
 </p>
 
-    
-    
-### 💻 IDEs/Editors
+---
 
-<p align="left"> 
-  <a href="https://code.visualstudio.com/" target="_blank"> 
-   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-  </a>   
- 
-  <a href="https://visualstudio.microsoft.com/" target="_blank"> 
-    <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"/>
+# 📚 Actualmente aprendiendo
+
+- 🏗️ Arquitectura de Software
+- 🧼 Clean Code & Refactorización
+- 🧩 Patrones de Diseño
+- ⚡ Optimización de Consultas SQL y APIs
+- 🚀 Desarrollo Full Stack Avanzado
+
+---
+
+# 🚀 Proyecto Destacado
+
+## 🛍️ Look360
+Sistema web omnicanal completo diseñado para la administración y control total de una tienda de ropa. Incluye flujos complejos desde el inventario hasta el cliente final.
+
+### Funcionalidades Clave
+✅ **Seguridad:** Autenticación segura y manejo de sesiones con JWT.  
+✅ **Gestión Integral:** Módulos completos para administración de usuarios, proveedores y productos.  
+✅ **Control de Inventario:** Historial de ventas, control estricto de Stock y alertas.  
+✅ **Punto de Venta:** Módulo de Caja operativo y Dashboard administrativo para la toma de decisiones.  
+✅ **Reportes:** Generación de reportes detallados en formato PDF.  
+✅ **Arquitectura:** Roles de usuario definidos conectados a una API REST estructurada.  
+
+**Tecnologías:** React • Node.js • Express • MySQL • XAMPP • Bootstrap • JWT
+
+---
+
+# 💼 Habilidades
+
+✔ Desarrollo Frontend Single Page Applications (SPA)  
+✔ Construcción de APIs REST robustas  
+✔ Modelado y Gestión de Bases de Datos Relacionales (MySQL/XAMPP)  
+✔ Control de Flujo y Autenticación con JWT  
+✔ Programación Orientada a Objetos (POO)  
+✔ Control de versiones estricto con Git & GitHub  
+✔ Resolución de Problemas y Trabajo en Equipo  
+
+---
+
+# 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DavidCQ24&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidCQ24&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🔥 Racha de Contribuciones
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DavidCQ24&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Gráfico de Actividad
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DavidCQ24&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🌎 Conecta conmigo
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/david-julian-choconta-quintero-a9682b3b1/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+  <a href="https://github.com/DavidCQ24" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github"/>
+  </a>
+  <a href="mailto:Dajul2424@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
+  <a href="https://www.instagram.com/david_c.q_24" target="_blank">
+    <img width="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
   </a>
 </p>
 
+---
 
+# 💡 Pensamiento Favorito
 
-    
-    
+> **"Tu componente más importante no es la tecnología, sino tu capacidad de mantener la disciplina para crear soluciones reales."**
 
-  
+---
 
-
-
-<br> 
-
-
-
-## <b>💪Quote || Fact</b>
-<br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines="First,+solve+the+problem.+Then,+write+the+code".;++"Great+Developers+never+stop+learning".)](https://git.io/typing-svg)
-
-<br>
-
-#### <p align="center"><b>Gracias por ver mi perfil🤣🤣</b></p>
-
-
------
-Credits: [Al-Amin](https://github.com/alamin-babu)
-
+<div align="center">
+  <h2>⭐ Gracias por visitar mi perfil</h2>
+  <p>Si te gustan mis proyectos, no olvides dejar una ⭐ en mis repositorios.</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A5ACD&height=120&section=footer"/>
+</div>
